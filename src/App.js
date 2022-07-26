@@ -87,6 +87,8 @@ function App() {
           </div>
           <div class="col-md-6">
 
+            
+
             <img src={img1} alt="" width="500px"/>
             <img src={img2} alt="" width="500px"/>
 
